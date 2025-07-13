@@ -17,7 +17,7 @@ This repository contains all of my submissions for Kaggle coding challenges. It 
 
 ## Disclaimer
 
-These solutions are for educational purposes. Please do not copy code for direct submission on LeetCode as it may violate their policies.
+These solutions are for educational purposes. Please do not copy code for direct submission on Kaggle as it may violate their policies.
 
 ---
 
